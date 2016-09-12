@@ -1,0 +1,3 @@
+Build the image like this:
+
+docker build -t sagemath-buildenv-32bit .
